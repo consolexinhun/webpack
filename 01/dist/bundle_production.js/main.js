@@ -1,0 +1,1 @@
+(()=>{"use strict";const s=JSON.parse('{"username":"consolexin"}');console.log(s)})();
